@@ -599,6 +599,38 @@ video {
   right: 0px;
 }
 
+.right-20 {
+  right: 5rem;
+}
+
+.-right-20 {
+  right: -5rem;
+}
+
+.right-auto {
+  right: auto;
+}
+
+.right-96 {
+  right: 24rem;
+}
+
+.right-10 {
+  right: 2.5rem;
+}
+
+.right-5 {
+  right: 1.25rem;
+}
+
+.right-2 {
+  right: 0.5rem;
+}
+
+.right-1 {
+  right: 0.25rem;
+}
+
 .z-0 {
   z-index: 0;
 }
