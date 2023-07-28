@@ -8,6 +8,7 @@ module.exports = {
       'bg-300': '#454545',
       'text-primary': '#ffffff',
       'text-secondary': '#9E9E9E',
+      'text-new': '#ECECEC',
       'accent-100': '#006FFF',
       'accent-200': '#E1FFFF',
       'primary-100': '#0085FF',
