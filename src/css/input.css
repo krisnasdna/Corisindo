@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
-@font-face {
-    font-family: "Monument";
-    src: url("../font/MonumentExtended-Regular.otf");
-};
 
 @layer components{
     .accordion-header{

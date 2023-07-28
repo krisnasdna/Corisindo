@@ -16,7 +16,7 @@ module.exports = {
     },
     fontFamily: {
       jakarta: ['Plus Jakarta Sans', 'sans-serif'],
-      monument: ['Monument', 'serif'],
+      monument: ['Bebas Neue', 'sans-serif'],
     },
   },
   variants: {
